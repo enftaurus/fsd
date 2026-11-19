@@ -61,3 +61,7 @@ Then open your browser at the displayed URL (typically `http://localhost:4352`).
 | **SET-14**| Q2 | [`SET-14/question2`](./SET-14/question2)| Dynamic list with input, add, and remove buttons | React (Vite) |
 | **SET-15**| Q1 | [`SET-15/question1`](./SET-15/question1)| JSX literals & expressions to display user details (name, age)| React (Vite) |
 | **SET-15**| Q2 | [`SET-15/question2`](./SET-15/question2)| React form with real-time validation (required, email, min length)| React (Vite) |
+
+
+
+scp -r cse24160@10.3.1.37:~/fsd "%USERPROFILE%\Downloads\"
